@@ -2,7 +2,7 @@
  
 An updated version of my previous deterministic pushdown automata.
 
-This automata recognizes the Context Free Language L={anbn | n ≥ 0}.
+This automata recognizes the Context Free Language L={a^nb^n | n ≥ 0}.
 
 --
 
